@@ -39,7 +39,7 @@ education:
   courses:
     - course: PhD in Applied and Computational Mathematics
       institution: The University of Edinburgh
-      year: Actual
+      year: Current
     - course: MSc Computational Applied Mathematics
       institution: The University of Edinburgh
       year: 2022
@@ -108,5 +108,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD student in Applied and Computational Mathematics at the University of Edinburgh, and I am a member of the Maxwell Institute for Mathematical Science and the APRIL research lab. My research focuses on the use of neural networks as surrogates to solve inverse problems involving differential equations. I am fortunate to be supervised by <a href=https://www.maths.ed.ac.uk/~kzygalak/ target=_blank rel=noopener>Dr. Konstantinos C. Zygalakis</a>,  <a href=https://www.maths.ed.ac.uk/~ateckent/ target=_blank rel=noopener>Dra. Aretha Teckentrup</a> and  <a href=http://nolovedeeplearning.com/ target=_blank rel=noopener>Dr. Antonio Vergari</a>. 
 {style="text-align: justify;"}
